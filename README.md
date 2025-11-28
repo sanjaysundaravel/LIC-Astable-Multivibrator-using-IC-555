@@ -46,4 +46,4 @@ PC with LT Spice Software
 <img width="1600" height="843" alt="image" src="https://github.com/user-attachments/assets/ce3514e0-c634-4ea1-abfb-7c8841db801b" />
 
 ## Result:
-![Uploading image.png…]()
+<img width="1280" height="577" alt="image" src="https://github.com/user-attachments/assets/3e2606ad-1a0d-472b-ab1f-6d82d5018625" />
